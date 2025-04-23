@@ -1,0 +1,562 @@
+feature,coefficient
+age,16.041669261694235
+age subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,-11.1966343277207
+age subgroup1_Non-Hispanic Black,6.738169355885932
+age^2,5.320962629268465
+subgroup1_Non-Hispanic Black,4.3221602005446575
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,-3.4350713520832006
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander^2,-2.7336757483121072
+age jurisdiction_residence_Region 6,2.1400443306810497
+age subgroup1_Non-Hispanic Asian,-1.3043783630277193
+age jurisdiction_residence_Region 2,1.1383031896848803
+age jurisdiction_residence_Region 10,-1.0176877970330895
+subgroup1_Non-Hispanic American Indian or Alaska Native time*jurisdiction_residence_Region 6,0.5629598593391396
+subgroup1_Non-Hispanic American Indian or Alaska Native time*jurisdiction_residence_Region 8,0.549861513187203
+subgroup1_Non-Hispanic Black time*jurisdiction_residence_Region 8,-0.47243664159066145
+subgroup1_Non-Hispanic Black time*jurisdiction_residence_Region 10,-0.43748290157063474
+subgroup1_Non-Hispanic American Indian or Alaska Native time*jurisdiction_residence_Region 9,0.4124540002860344
+time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,-0.2897807837740021
+age subgroup1_Non-Hispanic American Indian or Alaska Native,-0.27490894273748634
+time age,-0.26469615328965934
+subgroup1_Non-Hispanic American Indian or Alaska Native time*subgroup1_Non-Hispanic American Indian or Alaska Native,-0.2609575751820037
+"time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",-0.2569894749593761
+time*subgroup1_Non-Hispanic Asian,-0.24903650850944925
+time*subgroup1_Non-Hispanic American Indian or Alaska Native,-0.24551154561251118
+jurisdiction_residence_Region 6 time*subgroup1_Non-Hispanic American Indian or Alaska Native,0.21730689345213777
+subgroup1_Non-Hispanic American Indian or Alaska Native time*jurisdiction_residence_Region 2,-0.20442335063553954
+subgroup1_Non-Hispanic White time*jurisdiction_residence_Region 9,-0.18611418288516177
+jurisdiction_residence_Region 8 time*subgroup1_Non-Hispanic American Indian or Alaska Native,0.1826773737576065
+jurisdiction_residence_Region 10 time*subgroup1_Non-Hispanic American Indian or Alaska Native,0.17985626002651747
+time*subgroup1_Non-Hispanic Black,-0.17516578153191958
+jurisdiction_residence_Region 9 time*subgroup1_Non-Hispanic American Indian or Alaska Native,0.16897752752168504
+age time*subgroup1_Non-Hispanic Black,-0.15894854749921664
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander time*jurisdiction_residence_Region 6,-0.1549931579201815
+subgroup1_Non-Hispanic Black time*jurisdiction_residence_Region 7,0.15382164924410702
+subgroup1_Non-Hispanic Asian time*subgroup1_Non-Hispanic Asian,-0.1511772959167777
+time jurisdiction_residence_Region 9,0.14806135664632836
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",-0.14751148937962638
+time*jurisdiction_residence_Region 6,0.1465253551631138
+age time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,0.1460182555347603
+time jurisdiction_residence_Region 6,0.13943003525720196
+subgroup1_Non-Hispanic Black time*jurisdiction_residence_Region 9,-0.138988111133646
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,-0.1172444785565368
+jurisdiction_residence_Region 9 time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,0.11583594646798351
+subgroup1_Non-Hispanic White time*jurisdiction_residence_Region 7,0.10904353573795178
+time jurisdiction_residence_Region 4,0.10473412774864266
+subgroup1_Non-Hispanic American Indian or Alaska Native time*jurisdiction_residence_Region 3,-0.10157890235848331
+time jurisdiction_residence_Region 5,0.09950073063535224
+subgroup1_Non-Hispanic Asian time*jurisdiction_residence_Region 2,0.08449334675663173
+jurisdiction_residence_Region 10 time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,0.08316034177220556
+time*jurisdiction_residence_Region 9,0.08277561911798831
+jurisdiction_residence_Region 2 time*subgroup1_Non-Hispanic Asian,0.07926165868697888
+subgroup1_Non-Hispanic American Indian or Alaska Native time*jurisdiction_residence_Region 10,0.07545823378129879
+jurisdiction_residence_Region 5 time*jurisdiction_residence_Region 5,0.07511050769457817
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander time*jurisdiction_residence_Region 5,-0.0747587427506711
+"jurisdiction_residence_Region 2 time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",0.07166123415266194
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander time*jurisdiction_residence_Region 6",-0.057472683154291354
+subgroup1_Non-Hispanic Asian time*jurisdiction_residence_Region 8,-0.057001292789621676
+time jurisdiction_residence_Region 2,0.056250846248903426
+jurisdiction_residence_Region 2,0.054274538696145624
+time subgroup1_Non-Hispanic American Indian or Alaska Native,-0.054013392715752236
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander time*jurisdiction_residence_Region 9,0.05239371419691222
+age time*subgroup1_Non-Hispanic American Indian or Alaska Native,-0.0502425041331189
+"age time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",-0.04819636597756381
+age time*jurisdiction_residence_Region 9,0.04618525808122429
+subgroup1_Non-Hispanic Asian time*jurisdiction_residence_Region 7,-0.04590692603308421
+time,-0.0457099980165775
+subgroup1_Non-Hispanic White time*jurisdiction_residence_Region 3,0.04526789574477841
+jurisdiction_residence_Region 9 time*jurisdiction_residence_Region 9,0.04237373977392932
+jurisdiction_residence_Region 6 time*jurisdiction_residence_Region 6,0.04156888880697668
+subgroup1_Non-Hispanic American Indian or Alaska Native time*jurisdiction_residence_Region 7,-0.040570109146114926
+time subgroup1_Non-Hispanic Asian,-0.035207662681500086
+subgroup1_Non-Hispanic Black time*jurisdiction_residence_Region 4,0.029796629308951446
+jurisdiction_residence_Region 9 time*subgroup1_Non-Hispanic Black,-0.029588523133604033
+time*subgroup1_Non-Hispanic White,-0.02883630432013195
+time jurisdiction_residence_Region 8,0.02707990758337485
+age time*jurisdiction_residence_Region 10,0.02460814863656695
+jurisdiction_residence_Region 10 time*subgroup1_Non-Hispanic Black,-0.024134438841449987
+time*jurisdiction_residence_Region 7,-0.023226651558565424
+age time*jurisdiction_residence_Region 5,0.023046686647369995
+jurisdiction_residence_Region 4 time*jurisdiction_residence_Region 4,0.02149762427035468
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander time*jurisdiction_residence_Region 2,-0.021294666641560933
+jurisdiction_residence_Region 7 time*subgroup1_Non-Hispanic White,0.021096088938925492
+jurisdiction_residence_Region 2 time*jurisdiction_residence_Region 2,0.020489902817641823
+age time*jurisdiction_residence_Region 4,0.019219180524351575
+jurisdiction_residence_Region 4 time*subgroup1_Non-Hispanic Black,0.018739356473120354
+jurisdiction_residence_Region 9 time*subgroup1_Non-Hispanic White,-0.01530001315520952
+time*jurisdiction_residence_Region 6 time*subgroup1_Non-Hispanic American Indian or Alaska Native,-0.015275086013296447
+jurisdiction_residence_Region 3 time*subgroup1_Non-Hispanic Asian,0.015208442653097861
+jurisdiction_residence_Region 3 time*subgroup1_Non-Hispanic White,0.014931576019447692
+time*jurisdiction_residence_Region 8 time*subgroup1_Non-Hispanic American Indian or Alaska Native,-0.013602899444106477
+age time*subgroup1_Non-Hispanic Asian,-0.013260838373491297
+subgroup1_Non-Hispanic Black time*subgroup1_Non-Hispanic Black,-0.012517019652359252
+time*jurisdiction_residence_Region 9 time*subgroup1_Non-Hispanic American Indian or Alaska Native,-0.011010849664376097
+jurisdiction_residence_Region 8 time*subgroup1_Non-Hispanic Asian,-0.010677498374735809
+jurisdiction_residence_Region 8 time*subgroup1_Non-Hispanic Black,-0.010625734295736794
+age time*subgroup1_Non-Hispanic White,0.010464109155516125
+jurisdiction_residence_Region 8 time*jurisdiction_residence_Region 8,0.010358500696069937
+"time subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",-0.010108566609415547
+time*jurisdiction_residence_Region 10 time*subgroup1_Non-Hispanic Black,0.009132520069110523
+time*jurisdiction_residence_Region 8 time*subgroup1_Non-Hispanic Black,0.008770806351418086
+subgroup1_Non-Hispanic Black time*jurisdiction_residence_Region 6,-0.006344986916116403
+age time*jurisdiction_residence_Region 2,-0.006284811277095368
+age time*jurisdiction_residence_Region 8,0.006099345768649875
+subgroup1_Non-Hispanic Black^2,0.005947414694096503
+time*subgroup1_Non-Hispanic American Indian or Alaska Native^2,0.005421409370992039
+jurisdiction_residence_Region 7 time*subgroup1_Non-Hispanic Asian,-0.005318563306863216
+time time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,0.005236050997583323
+jurisdiction_residence_Region 7 time*subgroup1_Non-Hispanic Black,0.004741885219087529
+jurisdiction_residence_Region 7 time*subgroup1_Non-Hispanic American Indian or Alaska Native,-0.004650390621012192
+time time*subgroup1_Non-Hispanic Asian,0.00437926786403954
+time time*subgroup1_Non-Hispanic American Indian or Alaska Native,0.004375810669065447
+"time time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",0.00408894375195905
+time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander^2,0.004071029933157446
+time*jurisdiction_residence_Region 9 time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,-0.0036892676057416747
+time*subgroup1_Non-Hispanic Asian^2,0.00358431204106185
+time*jurisdiction_residence_Region 10 time*subgroup1_Non-Hispanic American Indian or Alaska Native,-0.003573174536381963
+time*jurisdiction_residence_Region 2 time*subgroup1_Non-Hispanic American Indian or Alaska Native,0.00355298511667667
+time^2,-0.003497579872164991
+"time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander^2",0.003378930037286056
+time*jurisdiction_residence_Region 9 time*subgroup1_Non-Hispanic Black,0.0031495276012362527
+time*jurisdiction_residence_Region 2 time*subgroup1_Non-Hispanic Asian,-0.00312113529536224
+time*jurisdiction_residence_Region 5,0.003048215749597714
+time*jurisdiction_residence_Region 6^2,-0.00288055530620861
+time*jurisdiction_residence_Region 9 time*subgroup1_Non-Hispanic White,0.00281860781960861
+time*jurisdiction_residence_Region 9^2,-0.0027080690324358487
+age time*jurisdiction_residence_Region 7,-0.0026230051162404746
+time*jurisdiction_residence_Region 7 time*subgroup1_Non-Hispanic Black,-0.0025121730316008868
+time*jurisdiction_residence_Region 3 time*subgroup1_Non-Hispanic American Indian or Alaska Native,0.0024057035639728037
+time*jurisdiction_residence_Region 4,0.0023386762146109853
+age time*jurisdiction_residence_Region 3,0.0023323500867348927
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander time*jurisdiction_residence_Region 2",0.0022304248908714967
+time time*jurisdiction_residence_Region 6,-0.0020793280839411597
+time*jurisdiction_residence_Region 7 time*subgroup1_Non-Hispanic White,-0.0019099256771716556
+time*jurisdiction_residence_Region 5^2,-0.0017658807158923596
+time time*jurisdiction_residence_Region 9,-0.0016131812583510183
+time*jurisdiction_residence_Region 6 time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,0.0015708580436256114
+time*jurisdiction_residence_Region 3 time*subgroup1_Non-Hispanic Black,0.0014021915375308704
+time time*jurisdiction_residence_Region 5,-0.0013908983977258481
+time*jurisdiction_residence_Region 7 time*subgroup1_Non-Hispanic American Indian or Alaska Native,0.0013556821491541122
+time*jurisdiction_residence_Region 6 time*subgroup1_Non-Hispanic White,-0.0013485212209880257
+time time*subgroup1_Non-Hispanic Black,0.0013425323886627903
+"time*jurisdiction_residence_Region 2 time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",-0.0012660249744835012
+time*jurisdiction_residence_Region 5 time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,0.0011772657697129909
+time*jurisdiction_residence_Region 5 time*subgroup1_Non-Hispanic Black,0.001072010800937213
+time*jurisdiction_residence_Region 4^2,-0.001033928764716822
+time*jurisdiction_residence_Region 7 time*subgroup1_Non-Hispanic Asian,0.0009691670313384667
+time*jurisdiction_residence_Region 6 time*subgroup1_Non-Hispanic Asian,-0.0009550120543757581
+time time*subgroup1_Non-Hispanic White,0.0009246458996647876
+time*jurisdiction_residence_Region 4 time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,-0.0009033648215798782
+time*jurisdiction_residence_Region 2^2,-0.0008912959762411005
+"time*jurisdiction_residence_Region 10 time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",0.0008633786863209478
+time*jurisdiction_residence_Region 2,0.0008596983501296558
+time*jurisdiction_residence_Region 10 time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,-0.0008188580286273308
+time*jurisdiction_residence_Region 8 time*subgroup1_Non-Hispanic Asian,0.000816700579289459
+time*jurisdiction_residence_Region 10 time*subgroup1_Non-Hispanic Asian,0.0007330309537799554
+time*jurisdiction_residence_Region 10 time*subgroup1_Non-Hispanic White,0.0007260644479819626
+"time*jurisdiction_residence_Region 3 time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",0.0007080495310605046
+time*jurisdiction_residence_Region 4 time*subgroup1_Non-Hispanic White,-0.0006537595439587404
+time time*jurisdiction_residence_Region 4,-0.0005794523879472537
+time*jurisdiction_residence_Region 4 time*subgroup1_Non-Hispanic Asian,-0.0005207558028541764
+time*subgroup1_Non-Hispanic White^2,0.00045960316470153084
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander time*jurisdiction_residence_Region 10,0.0004414374695830721
+time*jurisdiction_residence_Region 3 time*subgroup1_Non-Hispanic White,-0.0004347807717520808
+jurisdiction_residence_Region 3 time*subgroup1_Non-Hispanic American Indian or Alaska Native,-0.0004137012481836792
+time time*jurisdiction_residence_Region 10,-0.00040965083814174384
+time*jurisdiction_residence_Region 2 time*subgroup1_Non-Hispanic White,-0.0003996057419832052
+time*subgroup1_Non-Hispanic Black^2,0.0003976269392322054
+time*jurisdiction_residence_Region 3 time*subgroup1_Non-Hispanic Asian,0.0003903532388462902
+time*jurisdiction_residence_Region 2 time*subgroup1_Non-Hispanic Black,0.0003880605470710215
+time*jurisdiction_residence_Region 8^2,-0.0003840938375595031
+"time*jurisdiction_residence_Region 4 time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",-0.0003837871564739186
+time*jurisdiction_residence_Region 8,0.0003787801313608626
+"time*jurisdiction_residence_Region 8 time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",-0.00036885607391594344
+"time*jurisdiction_residence_Region 5 time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",0.00036554571742970494
+time*jurisdiction_residence_Region 4 time*subgroup1_Non-Hispanic Black,-0.0003620986752247439
+time*jurisdiction_residence_Region 5 time*subgroup1_Non-Hispanic American Indian or Alaska Native,0.00032573340576284176
+time*jurisdiction_residence_Region 5 time*subgroup1_Non-Hispanic Asian,0.0002785863242084708
+time*jurisdiction_residence_Region 7 time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,0.00026936854825837406
+subgroup1_Non-Hispanic Asian time*jurisdiction_residence_Region 3,0.0002566778429156412
+time*jurisdiction_residence_Region 8 time*subgroup1_Non-Hispanic White,-0.00024351790408769564
+time*jurisdiction_residence_Region 3^2,-0.0002382996138884836
+time subgroup1_Non-Hispanic White,-0.00023725696452151122
+time time*jurisdiction_residence_Region 7,0.00021802221028504595
+time*jurisdiction_residence_Region 2 time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,-0.00021427695833787244
+time*jurisdiction_residence_Region 3 time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,0.00019576248689162903
+time subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,-0.00019118243550231103
+time subgroup1_Non-Hispanic Black,-0.00017113422329043812
+"time*jurisdiction_residence_Region 6 time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",0.0001701256975235733
+time*jurisdiction_residence_Region 6 time*subgroup1_Non-Hispanic Black,0.0001125278025339354
+time*jurisdiction_residence_Region 10^2,-8.955121245417042e-05
+"time*jurisdiction_residence_Region 9 time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",8.804825423133106e-05
+"time*jurisdiction_residence_Region 7 time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",8.703018365300747e-05
+time jurisdiction_residence_Region 7,-8.108213586438217e-05
+time*jurisdiction_residence_Region 8 time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,-7.616241122188614e-05
+time*jurisdiction_residence_Region 4 time*subgroup1_Non-Hispanic American Indian or Alaska Native,-7.1076048619865e-05
+time*jurisdiction_residence_Region 9 time*subgroup1_Non-Hispanic Asian,6.86819855521512e-05
+jurisdiction_residence_Region 6 time*subgroup1_Non-Hispanic Black,-6.4011167717764e-05
+time*jurisdiction_residence_Region 5 time*subgroup1_Non-Hispanic White,-2.719696036584835e-05
+time*jurisdiction_residence_Region 7^2,2.3033077275734485e-05
+jurisdiction_residence_Region 2 time*subgroup1_Non-Hispanic American Indian or Alaska Native,-1.6177011040694212e-05
+time time*jurisdiction_residence_Region 8,-1.333369693832742e-05
+"jurisdiction_residence_Region 6 time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",-5.93477174851382e-06
+jurisdiction_residence_Region 6 time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,-5.159427566266694e-06
+time time*jurisdiction_residence_Region 2,-1.2835112092111227e-06
+jurisdiction_residence_Region 2 time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,-5.251223220558546e-07
+jurisdiction_residence_Region 5 time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,-8.105645566223487e-09
+time*jurisdiction_residence_Region 6 time*jurisdiction_residence_Region 9,0.0
+"time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander time*subgroup1_Non-Hispanic Black",0.0
+jurisdiction_residence_Region 6 time*jurisdiction_residence_Region 4,0.0
+jurisdiction_residence_Region 6 time*jurisdiction_residence_Region 3,0.0
+jurisdiction_residence_Region 6 time*jurisdiction_residence_Region 2,0.0
+jurisdiction_residence_Region 6 time*jurisdiction_residence_Region 10,0.0
+jurisdiction_residence_Region 6 jurisdiction_residence_Region 9,0.0
+jurisdiction_residence_Region 6 jurisdiction_residence_Region 7,0.0
+jurisdiction_residence_Region 6 jurisdiction_residence_Region 8,0.0
+"time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander",0.0
+jurisdiction_residence_Region 6^2,0.0
+jurisdiction_residence_Region 5 time*subgroup1_Non-Hispanic White,0.0
+jurisdiction_residence_Region 5 time*subgroup1_Non-Hispanic Black,0.0
+"jurisdiction_residence_Region 5 time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",0.0
+jurisdiction_residence_Region 6 time*jurisdiction_residence_Region 5,0.0
+time*subgroup1_Non-Hispanic Asian time*subgroup1_Non-Hispanic White,0.0
+jurisdiction_residence_Region 6 time*jurisdiction_residence_Region 7,0.0
+jurisdiction_residence_Region 6 time*jurisdiction_residence_Region 8,0.0
+jurisdiction_residence_Region 6 time*jurisdiction_residence_Region 9,0.0
+time*subgroup1_Non-Hispanic Asian time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,0.0
+time*subgroup1_Non-Hispanic Asian time*subgroup1_Non-Hispanic Black,0.0
+"time*subgroup1_Non-Hispanic Asian time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",0.0
+time*jurisdiction_residence_Region 3 time*jurisdiction_residence_Region 9,0.0
+time*jurisdiction_residence_Region 3 time*jurisdiction_residence_Region 8,0.0
+jurisdiction_residence_Region 6 time*subgroup1_Non-Hispanic Asian,-0.0
+jurisdiction_residence_Region 4 time*jurisdiction_residence_Region 3,0.0
+time*jurisdiction_residence_Region 4 time*jurisdiction_residence_Region 8,0.0
+time*jurisdiction_residence_Region 3 time*jurisdiction_residence_Region 6,0.0
+jurisdiction_residence_Region 6 time*subgroup1_Non-Hispanic White,-0.0
+jurisdiction_residence_Region 7^2,-0.0
+jurisdiction_residence_Region 7 jurisdiction_residence_Region 8,0.0
+time*jurisdiction_residence_Region 4 time*jurisdiction_residence_Region 7,0.0
+"time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander time*subgroup1_Non-Hispanic White",0.0
+time*jurisdiction_residence_Region 10 time*jurisdiction_residence_Region 8,0.0
+jurisdiction_residence_Region 5 time*subgroup1_Non-Hispanic Asian,0.0
+jurisdiction_residence_Region 4 time*jurisdiction_residence_Region 5,0.0
+jurisdiction_residence_Region 4 time*jurisdiction_residence_Region 6,0.0
+jurisdiction_residence_Region 4 time*jurisdiction_residence_Region 7,0.0
+jurisdiction_residence_Region 4 time*jurisdiction_residence_Region 8,0.0
+jurisdiction_residence_Region 4 time*jurisdiction_residence_Region 9,0.0
+jurisdiction_residence_Region 4 time*subgroup1_Non-Hispanic American Indian or Alaska Native,-0.0
+time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander time*subgroup1_Non-Hispanic White,0.0
+jurisdiction_residence_Region 4 time*subgroup1_Non-Hispanic Asian,-0.0
+"jurisdiction_residence_Region 4 time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",-0.0
+time*subgroup1_Non-Hispanic Black time*subgroup1_Non-Hispanic White,0.0
+time*subgroup1_Non-Hispanic Black time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,0.0
+time*jurisdiction_residence_Region 4 time*jurisdiction_residence_Region 5,0.0
+jurisdiction_residence_Region 4 time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,-0.0
+jurisdiction_residence_Region 4 time*subgroup1_Non-Hispanic White,0.0
+jurisdiction_residence_Region 5^2,0.0
+jurisdiction_residence_Region 5 jurisdiction_residence_Region 6,0.0
+jurisdiction_residence_Region 5 jurisdiction_residence_Region 7,0.0
+jurisdiction_residence_Region 5 jurisdiction_residence_Region 8,0.0
+jurisdiction_residence_Region 5 jurisdiction_residence_Region 9,0.0
+jurisdiction_residence_Region 5 time*jurisdiction_residence_Region 10,0.0
+jurisdiction_residence_Region 5 time*jurisdiction_residence_Region 2,0.0
+jurisdiction_residence_Region 5 time*jurisdiction_residence_Region 3,0.0
+jurisdiction_residence_Region 5 time*jurisdiction_residence_Region 4,0.0
+time*jurisdiction_residence_Region 4 time*jurisdiction_residence_Region 6,0.0
+jurisdiction_residence_Region 5 time*jurisdiction_residence_Region 6,0.0
+jurisdiction_residence_Region 5 time*jurisdiction_residence_Region 7,0.0
+jurisdiction_residence_Region 5 time*jurisdiction_residence_Region 8,0.0
+jurisdiction_residence_Region 5 time*jurisdiction_residence_Region 9,0.0
+jurisdiction_residence_Region 5 time*subgroup1_Non-Hispanic American Indian or Alaska Native,0.0
+jurisdiction_residence_Region 7 jurisdiction_residence_Region 9,0.0
+jurisdiction_residence_Region 7 time*jurisdiction_residence_Region 10,0.0
+jurisdiction_residence_Region 7 time*jurisdiction_residence_Region 2,0.0
+time*jurisdiction_residence_Region 5 time*jurisdiction_residence_Region 8,0.0
+time*subgroup1_Non-Hispanic American Indian or Alaska Native time*subgroup1_Non-Hispanic Asian,0.0
+jurisdiction_residence_Region 9 time*jurisdiction_residence_Region 10,0.0
+jurisdiction_residence_Region 9 time*jurisdiction_residence_Region 2,0.0
+jurisdiction_residence_Region 9 time*jurisdiction_residence_Region 3,0.0
+jurisdiction_residence_Region 9 time*jurisdiction_residence_Region 4,0.0
+time*jurisdiction_residence_Region 2 time*jurisdiction_residence_Region 6,0.0
+jurisdiction_residence_Region 9 time*jurisdiction_residence_Region 5,0.0
+jurisdiction_residence_Region 9 time*jurisdiction_residence_Region 6,0.0
+time*jurisdiction_residence_Region 2 time*jurisdiction_residence_Region 5,0.0
+time*jurisdiction_residence_Region 2 time*jurisdiction_residence_Region 4,0.0
+jurisdiction_residence_Region 9 time*jurisdiction_residence_Region 7,0.0
+jurisdiction_residence_Region 9 time*jurisdiction_residence_Region 8,0.0
+time*jurisdiction_residence_Region 2 time*jurisdiction_residence_Region 3,0.0
+time*jurisdiction_residence_Region 5 time*jurisdiction_residence_Region 7,0.0
+time*jurisdiction_residence_Region 8 time*jurisdiction_residence_Region 9,0.0
+jurisdiction_residence_Region 7 time*jurisdiction_residence_Region 3,0.0
+jurisdiction_residence_Region 9 time*subgroup1_Non-Hispanic Asian,-0.0
+"jurisdiction_residence_Region 9 time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",0.0
+time*jurisdiction_residence_Region 5 time*jurisdiction_residence_Region 9,0.0
+time*jurisdiction_residence_Region 6 time*jurisdiction_residence_Region 7,0.0
+time*jurisdiction_residence_Region 6 time*jurisdiction_residence_Region 8,0.0
+time*jurisdiction_residence_Region 10 time*jurisdiction_residence_Region 9,0.0
+time*jurisdiction_residence_Region 10 time*jurisdiction_residence_Region 2,0.0
+time*jurisdiction_residence_Region 10 time*jurisdiction_residence_Region 3,0.0
+time*jurisdiction_residence_Region 7 time*jurisdiction_residence_Region 9,0.0
+time*jurisdiction_residence_Region 10 time*jurisdiction_residence_Region 4,0.0
+time*jurisdiction_residence_Region 10 time*jurisdiction_residence_Region 5,0.0
+time*jurisdiction_residence_Region 7 time*jurisdiction_residence_Region 8,0.0
+time*jurisdiction_residence_Region 10 time*jurisdiction_residence_Region 6,0.0
+time*jurisdiction_residence_Region 10 time*jurisdiction_residence_Region 7,0.0
+jurisdiction_residence_Region 9^2,0.0
+jurisdiction_residence_Region 8 time*subgroup1_Non-Hispanic White,-0.0
+jurisdiction_residence_Region 8 time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,0.0
+"time*subgroup1_Non-Hispanic American Indian or Alaska Native time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",0.0
+jurisdiction_residence_Region 7 time*jurisdiction_residence_Region 4,0.0
+jurisdiction_residence_Region 7 time*jurisdiction_residence_Region 5,0.0
+jurisdiction_residence_Region 7 time*jurisdiction_residence_Region 6,0.0
+jurisdiction_residence_Region 7 time*jurisdiction_residence_Region 7,-0.0
+jurisdiction_residence_Region 7 time*jurisdiction_residence_Region 8,0.0
+jurisdiction_residence_Region 7 time*jurisdiction_residence_Region 9,0.0
+time*jurisdiction_residence_Region 3 time*jurisdiction_residence_Region 5,0.0
+time*jurisdiction_residence_Region 3 time*jurisdiction_residence_Region 4,0.0
+"jurisdiction_residence_Region 7 time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",-0.0
+time*subgroup1_Non-Hispanic American Indian or Alaska Native time*subgroup1_Non-Hispanic White,0.0
+jurisdiction_residence_Region 7 time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,0.0
+time*subgroup1_Non-Hispanic American Indian or Alaska Native time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,0.0
+jurisdiction_residence_Region 8^2,0.0
+time*jurisdiction_residence_Region 4 time*jurisdiction_residence_Region 9,0.0
+jurisdiction_residence_Region 8 jurisdiction_residence_Region 9,0.0
+time*jurisdiction_residence_Region 5 time*jurisdiction_residence_Region 6,0.0
+jurisdiction_residence_Region 8 time*jurisdiction_residence_Region 10,0.0
+jurisdiction_residence_Region 8 time*jurisdiction_residence_Region 2,0.0
+jurisdiction_residence_Region 8 time*jurisdiction_residence_Region 3,0.0
+time*jurisdiction_residence_Region 2 time*jurisdiction_residence_Region 9,0.0
+jurisdiction_residence_Region 8 time*jurisdiction_residence_Region 4,0.0
+jurisdiction_residence_Region 8 time*jurisdiction_residence_Region 5,0.0
+jurisdiction_residence_Region 8 time*jurisdiction_residence_Region 6,0.0
+jurisdiction_residence_Region 8 time*jurisdiction_residence_Region 7,0.0
+time*subgroup1_Non-Hispanic American Indian or Alaska Native time*subgroup1_Non-Hispanic Black,0.0
+jurisdiction_residence_Region 8 time*jurisdiction_residence_Region 9,0.0
+time*jurisdiction_residence_Region 2 time*jurisdiction_residence_Region 8,0.0
+time*jurisdiction_residence_Region 2 time*jurisdiction_residence_Region 7,0.0
+"jurisdiction_residence_Region 8 time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",-0.0
+time*jurisdiction_residence_Region 3 time*jurisdiction_residence_Region 7,0.0
+1,0.0
+jurisdiction_residence_Region 4 time*jurisdiction_residence_Region 2,0.0
+"subgroup1_Non-Hispanic Asian time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander jurisdiction_residence_Region 4",-0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander jurisdiction_residence_Region 3",-0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander jurisdiction_residence_Region 2",0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander jurisdiction_residence_Region 10",-0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander subgroup1_Non-Hispanic White",0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander",0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander subgroup1_Non-Hispanic Black",0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander^2",-0.0
+subgroup1_Non-Hispanic Asian time*subgroup1_Non-Hispanic White,0.0
+subgroup1_Non-Hispanic Asian time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,0.0
+subgroup1_Non-Hispanic Asian time*subgroup1_Non-Hispanic Black,0.0
+subgroup1_Non-Hispanic Asian time*subgroup1_Non-Hispanic American Indian or Alaska Native,0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander jurisdiction_residence_Region 6",-0.0
+subgroup1_Non-Hispanic Asian time*jurisdiction_residence_Region 9,-0.0
+subgroup1_Non-Hispanic Asian time*jurisdiction_residence_Region 6,-0.0
+subgroup1_Non-Hispanic Asian time*jurisdiction_residence_Region 5,0.0
+subgroup1_Non-Hispanic Asian time*jurisdiction_residence_Region 4,-0.0
+subgroup1_Non-Hispanic Asian time*jurisdiction_residence_Region 10,0.0
+subgroup1_Non-Hispanic Asian jurisdiction_residence_Region 9,-0.0
+subgroup1_Non-Hispanic Asian jurisdiction_residence_Region 8,-0.0
+subgroup1_Non-Hispanic Asian jurisdiction_residence_Region 7,-0.0
+subgroup1_Non-Hispanic Asian jurisdiction_residence_Region 6,-0.0
+subgroup1_Non-Hispanic Asian jurisdiction_residence_Region 5,0.0
+subgroup1_Non-Hispanic Asian jurisdiction_residence_Region 4,-0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander jurisdiction_residence_Region 5",0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander jurisdiction_residence_Region 7",-0.0
+subgroup1_Non-Hispanic Asian jurisdiction_residence_Region 2,0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander time*subgroup1_Non-Hispanic White",0.0
+subgroup1_Non-Hispanic Black jurisdiction_residence_Region 9,-0.0
+subgroup1_Non-Hispanic Black jurisdiction_residence_Region 8,-0.0
+subgroup1_Non-Hispanic Black jurisdiction_residence_Region 7,0.0
+subgroup1_Non-Hispanic Black jurisdiction_residence_Region 6,0.0
+subgroup1_Non-Hispanic Black jurisdiction_residence_Region 5,0.0
+subgroup1_Non-Hispanic Black jurisdiction_residence_Region 4,0.0
+subgroup1_Non-Hispanic Black jurisdiction_residence_Region 3,0.0
+subgroup1_Non-Hispanic Black jurisdiction_residence_Region 2,0.0
+subgroup1_Non-Hispanic Black jurisdiction_residence_Region 10,-0.0
+subgroup1_Non-Hispanic Black subgroup1_Non-Hispanic White,0.0
+subgroup1_Non-Hispanic Black subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander",0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander jurisdiction_residence_Region 8",-0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander time*subgroup1_Non-Hispanic Black",0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander time*subgroup1_Non-Hispanic Asian",0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander time*subgroup1_Non-Hispanic American Indian or Alaska Native",0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander time*jurisdiction_residence_Region 9",0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander time*jurisdiction_residence_Region 8",-0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander time*jurisdiction_residence_Region 7",-0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander time*jurisdiction_residence_Region 5",0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander time*jurisdiction_residence_Region 4",-0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander time*jurisdiction_residence_Region 3",0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander time*jurisdiction_residence_Region 10",0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander jurisdiction_residence_Region 9",-0.0
+subgroup1_Non-Hispanic Asian jurisdiction_residence_Region 3,0.0
+subgroup1_Non-Hispanic Asian jurisdiction_residence_Region 10,-0.0
+subgroup1_Non-Hispanic Black time*jurisdiction_residence_Region 3,0.0
+time*jurisdiction_residence_Region 10,-0.0
+age jurisdiction_residence_Region 8,0.0
+age jurisdiction_residence_Region 7,-0.0
+age jurisdiction_residence_Region 5,0.0
+age jurisdiction_residence_Region 4,-0.0
+age jurisdiction_residence_Region 3,-0.0
+age subgroup1_Non-Hispanic White,0.0
+"age subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",-0.0
+time time*jurisdiction_residence_Region 3,-0.0
+time jurisdiction_residence_Region 3,0.0
+time jurisdiction_residence_Region 10,-0.0
+time*jurisdiction_residence_Region 3,0.0
+jurisdiction_residence_Region 9,0.0
+age time*jurisdiction_residence_Region 6,-0.0
+jurisdiction_residence_Region 8,0.0
+jurisdiction_residence_Region 7,-0.0
+jurisdiction_residence_Region 6,0.0
+jurisdiction_residence_Region 5,0.0
+jurisdiction_residence_Region 4,-0.0
+jurisdiction_residence_Region 3,-0.0
+jurisdiction_residence_Region 10,-0.0
+subgroup1_Non-Hispanic White,-0.0
+"subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",-0.0
+subgroup1_Non-Hispanic Asian,-0.0
+subgroup1_Non-Hispanic American Indian or Alaska Native,-0.0
+age jurisdiction_residence_Region 9,0.0
+subgroup1_Non-Hispanic American Indian or Alaska Native^2,-0.0
+subgroup1_Non-Hispanic Asian subgroup1_Non-Hispanic White,0.0
+subgroup1_Non-Hispanic American Indian or Alaska Native jurisdiction_residence_Region 9,0.0
+subgroup1_Non-Hispanic Asian subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,0.0
+subgroup1_Non-Hispanic Asian subgroup1_Non-Hispanic Black,0.0
+"subgroup1_Non-Hispanic Asian subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",0.0
+subgroup1_Non-Hispanic Asian^2,-0.0
+subgroup1_Non-Hispanic American Indian or Alaska Native time*subgroup1_Non-Hispanic White,0.0
+subgroup1_Non-Hispanic American Indian or Alaska Native time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,0.0
+subgroup1_Non-Hispanic American Indian or Alaska Native time*subgroup1_Non-Hispanic Black,0.0
+"subgroup1_Non-Hispanic American Indian or Alaska Native time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",0.0
+subgroup1_Non-Hispanic American Indian or Alaska Native time*subgroup1_Non-Hispanic Asian,0.0
+subgroup1_Non-Hispanic American Indian or Alaska Native time*jurisdiction_residence_Region 5,0.0
+subgroup1_Non-Hispanic American Indian or Alaska Native time*jurisdiction_residence_Region 4,-0.0
+subgroup1_Non-Hispanic American Indian or Alaska Native jurisdiction_residence_Region 8,0.0
+subgroup1_Non-Hispanic American Indian or Alaska Native subgroup1_Non-Hispanic Asian,0.0
+subgroup1_Non-Hispanic American Indian or Alaska Native jurisdiction_residence_Region 7,-0.0
+subgroup1_Non-Hispanic American Indian or Alaska Native jurisdiction_residence_Region 6,0.0
+subgroup1_Non-Hispanic American Indian or Alaska Native jurisdiction_residence_Region 5,-0.0
+subgroup1_Non-Hispanic American Indian or Alaska Native jurisdiction_residence_Region 4,-0.0
+subgroup1_Non-Hispanic American Indian or Alaska Native jurisdiction_residence_Region 3,-0.0
+subgroup1_Non-Hispanic American Indian or Alaska Native jurisdiction_residence_Region 2,-0.0
+subgroup1_Non-Hispanic American Indian or Alaska Native jurisdiction_residence_Region 10,-0.0
+subgroup1_Non-Hispanic American Indian or Alaska Native subgroup1_Non-Hispanic White,0.0
+subgroup1_Non-Hispanic American Indian or Alaska Native subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,0.0
+subgroup1_Non-Hispanic American Indian or Alaska Native subgroup1_Non-Hispanic Black,0.0
+"subgroup1_Non-Hispanic American Indian or Alaska Native subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",0.0
+subgroup1_Non-Hispanic Black time*jurisdiction_residence_Region 2,0.0
+subgroup1_Non-Hispanic Black time*jurisdiction_residence_Region 5,0.0
+jurisdiction_residence_Region 4 time*jurisdiction_residence_Region 10,0.0
+jurisdiction_residence_Region 2 jurisdiction_residence_Region 5,0.0
+jurisdiction_residence_Region 2 time*jurisdiction_residence_Region 8,0.0
+jurisdiction_residence_Region 2 time*jurisdiction_residence_Region 7,0.0
+jurisdiction_residence_Region 2 time*jurisdiction_residence_Region 6,0.0
+jurisdiction_residence_Region 2 time*jurisdiction_residence_Region 5,0.0
+jurisdiction_residence_Region 2 time*jurisdiction_residence_Region 4,0.0
+jurisdiction_residence_Region 2 time*jurisdiction_residence_Region 3,0.0
+jurisdiction_residence_Region 2 time*jurisdiction_residence_Region 10,0.0
+jurisdiction_residence_Region 2 jurisdiction_residence_Region 9,0.0
+jurisdiction_residence_Region 2 jurisdiction_residence_Region 8,0.0
+jurisdiction_residence_Region 2 jurisdiction_residence_Region 7,0.0
+jurisdiction_residence_Region 2 jurisdiction_residence_Region 6,0.0
+jurisdiction_residence_Region 2 jurisdiction_residence_Region 4,0.0
+jurisdiction_residence_Region 2 time*subgroup1_Non-Hispanic Black,0.0
+jurisdiction_residence_Region 2 jurisdiction_residence_Region 3,0.0
+jurisdiction_residence_Region 2^2,0.0
+jurisdiction_residence_Region 10 time*subgroup1_Non-Hispanic White,-0.0
+"jurisdiction_residence_Region 10 time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",0.0
+jurisdiction_residence_Region 10 time*jurisdiction_residence_Region 9,0.0
+jurisdiction_residence_Region 10 time*jurisdiction_residence_Region 8,0.0
+jurisdiction_residence_Region 10 time*jurisdiction_residence_Region 7,0.0
+jurisdiction_residence_Region 10 time*jurisdiction_residence_Region 6,0.0
+jurisdiction_residence_Region 10 time*jurisdiction_residence_Region 5,0.0
+jurisdiction_residence_Region 10 time*jurisdiction_residence_Region 4,0.0
+jurisdiction_residence_Region 10 time*jurisdiction_residence_Region 3,0.0
+jurisdiction_residence_Region 2 time*jurisdiction_residence_Region 9,0.0
+jurisdiction_residence_Region 2 time*subgroup1_Non-Hispanic White,0.0
+jurisdiction_residence_Region 10 time*jurisdiction_residence_Region 10,-0.0
+jurisdiction_residence_Region 3 time*jurisdiction_residence_Region 7,0.0
+jurisdiction_residence_Region 4 jurisdiction_residence_Region 9,0.0
+jurisdiction_residence_Region 4 jurisdiction_residence_Region 8,0.0
+jurisdiction_residence_Region 4 jurisdiction_residence_Region 7,0.0
+jurisdiction_residence_Region 4 jurisdiction_residence_Region 6,0.0
+jurisdiction_residence_Region 4 jurisdiction_residence_Region 5,0.0
+jurisdiction_residence_Region 4^2,-0.0
+jurisdiction_residence_Region 3 time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,-0.0
+jurisdiction_residence_Region 3 time*subgroup1_Non-Hispanic Black,0.0
+"jurisdiction_residence_Region 3 time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",0.0
+jurisdiction_residence_Region 3 time*jurisdiction_residence_Region 9,0.0
+jurisdiction_residence_Region 3 time*jurisdiction_residence_Region 8,0.0
+jurisdiction_residence_Region 3 time*jurisdiction_residence_Region 6,0.0
+jurisdiction_residence_Region 3^2,-0.0
+jurisdiction_residence_Region 3 time*jurisdiction_residence_Region 5,0.0
+jurisdiction_residence_Region 3 time*jurisdiction_residence_Region 4,0.0
+jurisdiction_residence_Region 3 time*jurisdiction_residence_Region 3,0.0
+jurisdiction_residence_Region 3 time*jurisdiction_residence_Region 2,0.0
+jurisdiction_residence_Region 3 time*jurisdiction_residence_Region 10,0.0
+jurisdiction_residence_Region 3 jurisdiction_residence_Region 9,0.0
+jurisdiction_residence_Region 3 jurisdiction_residence_Region 8,0.0
+jurisdiction_residence_Region 3 jurisdiction_residence_Region 7,0.0
+jurisdiction_residence_Region 3 jurisdiction_residence_Region 6,0.0
+jurisdiction_residence_Region 3 jurisdiction_residence_Region 5,0.0
+jurisdiction_residence_Region 3 jurisdiction_residence_Region 4,0.0
+jurisdiction_residence_Region 10 time*jurisdiction_residence_Region 2,0.0
+jurisdiction_residence_Region 10 jurisdiction_residence_Region 9,0.0
+subgroup1_Non-Hispanic Black time*subgroup1_Non-Hispanic American Indian or Alaska Native,0.0
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander jurisdiction_residence_Region 8,-0.0
+subgroup1_Non-Hispanic White^2,-0.0
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander time*subgroup1_Non-Hispanic White,0.0
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander time*subgroup1_Non-Hispanic Black,0.0
+"subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",0.0
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander time*subgroup1_Non-Hispanic Asian,0.0
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander time*subgroup1_Non-Hispanic American Indian or Alaska Native,0.0
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander time*jurisdiction_residence_Region 8,0.0
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander time*jurisdiction_residence_Region 7,0.0
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander time*jurisdiction_residence_Region 4,-0.0
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander time*jurisdiction_residence_Region 3,-0.0
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander jurisdiction_residence_Region 9,0.0
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander jurisdiction_residence_Region 7,-0.0
+subgroup1_Non-Hispanic White jurisdiction_residence_Region 2,0.0
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander jurisdiction_residence_Region 6,-0.0
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander jurisdiction_residence_Region 5,-0.0
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander jurisdiction_residence_Region 4,-0.0
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander jurisdiction_residence_Region 3,-0.0
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander jurisdiction_residence_Region 2,-0.0
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander jurisdiction_residence_Region 10,-0.0
+subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander subgroup1_Non-Hispanic White,0.0
+subgroup1_Non-Hispanic Black time*subgroup1_Non-Hispanic White,0.0
+subgroup1_Non-Hispanic Black time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,0.0
+"subgroup1_Non-Hispanic Black time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",0.0
+subgroup1_Non-Hispanic Black time*subgroup1_Non-Hispanic Asian,0.0
+subgroup1_Non-Hispanic White jurisdiction_residence_Region 10,-0.0
+subgroup1_Non-Hispanic White jurisdiction_residence_Region 3,-0.0
+jurisdiction_residence_Region 10 jurisdiction_residence_Region 8,0.0
+subgroup1_Non-Hispanic White time*subgroup1_Non-Hispanic Asian,0.0
+jurisdiction_residence_Region 10 jurisdiction_residence_Region 7,0.0
+jurisdiction_residence_Region 10 jurisdiction_residence_Region 6,0.0
+jurisdiction_residence_Region 10 jurisdiction_residence_Region 5,0.0
+jurisdiction_residence_Region 10 jurisdiction_residence_Region 4,0.0
+jurisdiction_residence_Region 10 jurisdiction_residence_Region 3,0.0
+jurisdiction_residence_Region 10 jurisdiction_residence_Region 2,0.0
+jurisdiction_residence_Region 10^2,-0.0
+subgroup1_Non-Hispanic White time*subgroup1_Non-Hispanic White,-0.0
+subgroup1_Non-Hispanic White time*subgroup1_Non-Hispanic Native Hawaiian or Other Pacific Islander,0.0
+subgroup1_Non-Hispanic White time*subgroup1_Non-Hispanic Black,0.0
+"subgroup1_Non-Hispanic White time*subgroup1_Non-Hispanic Asian, Native Hawaiian or Other Pacific Islander",0.0
+subgroup1_Non-Hispanic White time*subgroup1_Non-Hispanic American Indian or Alaska Native,0.0
+subgroup1_Non-Hispanic White jurisdiction_residence_Region 4,0.0
+subgroup1_Non-Hispanic White time*jurisdiction_residence_Region 8,-0.0
+subgroup1_Non-Hispanic White time*jurisdiction_residence_Region 6,-0.0
+subgroup1_Non-Hispanic White time*jurisdiction_residence_Region 5,0.0
+subgroup1_Non-Hispanic White time*jurisdiction_residence_Region 4,0.0
+subgroup1_Non-Hispanic White time*jurisdiction_residence_Region 2,0.0
+subgroup1_Non-Hispanic White time*jurisdiction_residence_Region 10,-0.0
+subgroup1_Non-Hispanic White jurisdiction_residence_Region 9,-0.0
+subgroup1_Non-Hispanic White jurisdiction_residence_Region 8,-0.0
+subgroup1_Non-Hispanic White jurisdiction_residence_Region 7,0.0
+subgroup1_Non-Hispanic White jurisdiction_residence_Region 6,-0.0
+subgroup1_Non-Hispanic White jurisdiction_residence_Region 5,-0.0
+jurisdiction_residence_Region 10 time*subgroup1_Non-Hispanic Asian,0.0
