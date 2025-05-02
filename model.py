@@ -11,7 +11,6 @@ class Model:
         df = Model_utils.load_data('df_encoded.csv')
 
         self.windows, self.poly_feature_names = Model_utils.preprocess(df, 1)
-        print(self.poly_feature_names)
 
         if train == True:
             print("retraining")

@@ -41,14 +41,19 @@ def convert(df):
     std_df['time'] = (time_col.dt.year - min_time.year) * 12 + (time_col.dt.month - min_time.month)
 
     age_map = {
-        '0-4 years': 0, '5-11 years': 1, '12-17 years': 2, '18-29 years': 3,
-        '30-39 years': 4, '40-49 years': 5, '50-64 years': 6, 
-        '65-74 years': 7, '75 years and over': 8
+        '0-4 years': 2,
+        '5-11 years': 8,
+        '12-17 years': 14.5,
+        '18-29 years': 23.5,
+        '30-39 years': 34.5,
+        '40-49 years': 44.5,
+        '50-64 years': 57,
+        '65-74 years': 69.5,
+        '75 years and over': 80  # Assumed average; you can adjust as needed
     }
 
     std_df['age'] = df['subgroup2'].map(age_map)
-    std_df['age'] = (std_df['age']-std_df['age'].mean())/std_df['age'].std()
-    
+
     encoded = pd.get_dummies(df[['subgroup1', 'jurisdiction_residence']], drop_first=True)
     std_df = pd.concat([std_df, encoded], axis=1)
     normalized_rates = (df['crude_COVID_rate'] - df['crude_COVID_rate'].mean()) / df['crude_COVID_rate'].std()
@@ -65,3 +70,24 @@ df = convert(df)
 
 
 df.to_csv("df_encoded.csv", index=False)
+
+# Define HHS regions globally
+hhs_regions = {
+        '1': ['Connecticut', 'Maine', 'Massachusetts', 'New Hampshire', 'Rhode Island', 'Vermont'],
+        '2': ['New Jersey', 'New York'],
+        '3': ['Delaware', 'District of Columbia', 'Maryland', 'Pennsylvania', 'Virginia', 'West Virginia'],
+        '4': ['Alabama', 'Florida', 'Georgia', 'Kentucky', 'Mississippi', 'North Carolina', 'South Carolina', 'Tennessee'],
+        '5': ['Illinois', 'Indiana', 'Michigan', 'Minnesota', 'Ohio', 'Wisconsin'],
+        '6': ['Arkansas', 'Louisiana', 'New Mexico', 'Oklahoma', 'Texas'],
+        '7': ['Iowa', 'Kansas', 'Missouri', 'Nebraska'],
+        '8': ['Colorado', 'Montana', 'North Dakota', 'South Dakota', 'Utah', 'Wyoming'],
+        '9': ['Arizona', 'California', 'Hawaii', 'Nevada'],
+        '10': ['Alaska', 'Idaho', 'Oregon', 'Washington']
+}
+
+political_data = pd.read_csv('state_political_control.csv')
+
+def concat(covid_data, political_data):
+    concat_data = pd.DataFrame()
+    concat_data['region'] = political_data['State'].map(hhs_regions)
+    

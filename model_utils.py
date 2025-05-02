@@ -19,9 +19,11 @@ class Model_utils:
         test_size=0.25, 
         random_state=42
     ):
+        print(df.columns)
         poly = PolynomialFeatures(degree=2)
 
         X_raw = df.drop(columns=['crude_COVID_rate'])  # still a DataFrame
+
         poly.fit(X_raw)  # fit on the DataFrame so it knows column names
         X = poly.transform(X_raw)  # now X becomes a NumPy array
         poly_feature_names = poly.get_feature_names_out(X_raw.columns)
@@ -47,8 +49,6 @@ class Model_utils:
             windows.append((X_tr, X_te, y_tr, y_te))
 
         return windows, poly_feature_names
-
-
 
     def train_and_save(
         X_train: np.ndarray,

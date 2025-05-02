@@ -16,5 +16,5 @@ from model import Model
 model = Model(True)
 model.test_models()
 
-# for feature in model.poly_feature_names:
-#     model.graph_feature(feature)
+for feature in model.poly_feature_names:
+    model.graph_feature(feature)
