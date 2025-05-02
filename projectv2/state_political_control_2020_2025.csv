@@ -1,0 +1,296 @@
+Year,State,Encoded_Control,Legislature_Control,Governor_Control,State_Control
+2020,Alabama,111,1,1,1
+2020,Alaska,111,1,1,1
+2020,Arizona,111,1,1,1
+2020,Arkansas,111,1,1,1
+2020,California,111,1,1,1
+2020,Colorado,222,2,2,2
+2020,Connecticut,222,2,2,2
+2020,Delaware,222,2,2,2
+2020,Florida,222,2,2,2
+2020,Georgia,222,2,2,2
+2020,Hawaii,222,2,2,2
+2020,Idaho,222,2,2,2
+2020,Illinois,222,2,2,2
+2020,Indiana,222,2,2,2
+2020,Iowa,222,2,2,2
+2020,Kansas,210,2,1,0
+2020,Kentucky,210,2,1,0
+2020,Louisiana,210,2,1,0
+2020,Maine,210,2,1,0
+2020,Maryland,210,2,1,0
+2020,Massachusetts,120,1,2,0
+2020,Michigan,120,1,2,0
+2020,Minnesota,120,1,2,0
+2020,Mississippi,120,1,2,0
+2020,Missouri,120,1,2,0
+2020,Montana,210,2,1,0
+2020,Nebraska,210,2,1,0
+2020,Nevada,210,2,1,0
+2020,New Hampshire,210,2,1,0
+2020,New Jersey,210,2,1,0
+2020,New Mexico,222,2,2,2
+2020,New York,222,2,2,2
+2020,North Carolina,222,2,2,2
+2020,North Dakota,222,2,2,2
+2020,Ohio,222,2,2,2
+2020,Oklahoma,111,1,1,1
+2020,Oregon,111,1,1,1
+2020,Pennsylvania,111,1,1,1
+2020,Rhode Island,111,1,1,1
+2020,South Carolina,111,1,1,1
+2020,South Dakota,111,1,1,1
+2020,Tennessee,111,1,1,1
+2020,Texas,111,1,1,1
+2020,Utah,111,1,1,1
+2020,Vermont,111,1,1,1
+2020,Virginia,222,2,2,2
+2020,Washington,222,2,2,2
+2020,West Virginia,222,2,2,2
+2020,Wisconsin,222,2,2,2
+2020,Wyoming,222,2,2,2
+2021,Alabama,111,1,1,1
+2021,Alaska,111,1,1,1
+2021,Arizona,111,1,1,1
+2021,Arkansas,111,1,1,1
+2021,California,111,1,1,1
+2021,Colorado,222,2,2,2
+2021,Connecticut,222,2,2,2
+2021,Delaware,222,2,2,2
+2021,Florida,222,2,2,2
+2021,Georgia,222,2,2,2
+2021,Hawaii,222,2,2,2
+2021,Idaho,222,2,2,2
+2021,Illinois,222,2,2,2
+2021,Indiana,222,2,2,2
+2021,Iowa,222,2,2,2
+2021,Kansas,210,2,1,0
+2021,Kentucky,210,2,1,0
+2021,Louisiana,210,2,1,0
+2021,Maine,210,2,1,0
+2021,Maryland,210,2,1,0
+2021,Massachusetts,120,1,2,0
+2021,Michigan,120,1,2,0
+2021,Minnesota,120,1,2,0
+2021,Mississippi,120,1,2,0
+2021,Missouri,120,1,2,0
+2021,Montana,111,1,1,1
+2021,Nebraska,111,1,1,1
+2021,Nevada,111,1,1,1
+2021,New Hampshire,111,1,1,1
+2021,New Jersey,111,1,1,1
+2021,New Mexico,222,2,2,2
+2021,New York,222,2,2,2
+2021,North Carolina,222,2,2,2
+2021,North Dakota,222,2,2,2
+2021,Ohio,222,2,2,2
+2021,Oklahoma,111,1,1,1
+2021,Oregon,111,1,1,1
+2021,Pennsylvania,111,1,1,1
+2021,Rhode Island,111,1,1,1
+2021,South Carolina,111,1,1,1
+2021,South Dakota,111,1,1,1
+2021,Tennessee,111,1,1,1
+2021,Texas,111,1,1,1
+2021,Utah,111,1,1,1
+2021,Vermont,111,1,1,1
+2021,Virginia,222,2,2,2
+2021,Washington,222,2,2,2
+2021,West Virginia,222,2,2,2
+2021,Wisconsin,222,2,2,2
+2021,Wyoming,222,2,2,2
+2022,Alabama,111,1,1,1
+2022,Alaska,111,1,1,1
+2022,Arizona,111,1,1,1
+2022,Arkansas,111,1,1,1
+2022,California,111,1,1,1
+2022,Colorado,222,2,2,2
+2022,Connecticut,222,2,2,2
+2022,Delaware,222,2,2,2
+2022,Florida,222,2,2,2
+2022,Georgia,222,2,2,2
+2022,Hawaii,222,2,2,2
+2022,Idaho,222,2,2,2
+2022,Illinois,222,2,2,2
+2022,Indiana,222,2,2,2
+2022,Iowa,222,2,2,2
+2022,Kansas,210,2,1,0
+2022,Kentucky,210,2,1,0
+2022,Louisiana,210,2,1,0
+2022,Maine,210,2,1,0
+2022,Maryland,210,2,1,0
+2022,Massachusetts,120,1,2,0
+2022,Michigan,120,1,2,0
+2022,Minnesota,120,1,2,0
+2022,Mississippi,120,1,2,0
+2022,Missouri,120,1,2,0
+2022,Montana,111,1,1,1
+2022,Nebraska,111,1,1,1
+2022,Nevada,111,1,1,1
+2022,New Hampshire,111,1,1,1
+2022,New Jersey,111,1,1,1
+2022,New Mexico,222,2,2,2
+2022,New York,222,2,2,2
+2022,North Carolina,222,2,2,2
+2022,North Dakota,222,2,2,2
+2022,Ohio,222,2,2,2
+2022,Oklahoma,111,1,1,1
+2022,Oregon,111,1,1,1
+2022,Pennsylvania,111,1,1,1
+2022,Rhode Island,111,1,1,1
+2022,South Carolina,111,1,1,1
+2022,South Dakota,111,1,1,1
+2022,Tennessee,111,1,1,1
+2022,Texas,111,1,1,1
+2022,Utah,111,1,1,1
+2022,Vermont,111,1,1,1
+2022,Virginia,100,1,0,0
+2022,Washington,100,1,0,0
+2022,West Virginia,100,1,0,0
+2022,Wisconsin,100,1,0,0
+2022,Wyoming,100,1,0,0
+2023,Alabama,111,1,1,1
+2023,Alaska,111,1,1,1
+2023,Arizona,111,1,1,1
+2023,Arkansas,111,1,1,1
+2023,California,111,1,1,1
+2023,Colorado,222,2,2,2
+2023,Connecticut,222,2,2,2
+2023,Delaware,222,2,2,2
+2023,Florida,222,2,2,2
+2023,Georgia,222,2,2,2
+2023,Hawaii,222,2,2,2
+2023,Idaho,222,2,2,2
+2023,Illinois,222,2,2,2
+2023,Indiana,222,2,2,2
+2023,Iowa,222,2,2,2
+2023,Kansas,210,2,1,0
+2023,Kentucky,210,2,1,0
+2023,Louisiana,210,2,1,0
+2023,Maine,210,2,1,0
+2023,Maryland,210,2,1,0
+2023,Massachusetts,222,2,2,2
+2023,Michigan,222,2,2,2
+2023,Minnesota,222,2,2,2
+2023,Mississippi,222,2,2,2
+2023,Missouri,222,2,2,2
+2023,New Mexico,222,2,2,2
+2023,New York,222,2,2,2
+2023,North Carolina,222,2,2,2
+2023,North Dakota,222,2,2,2
+2023,Ohio,222,2,2,2
+2023,Oklahoma,111,1,1,1
+2023,Oregon,111,1,1,1
+2023,Pennsylvania,111,1,1,1
+2023,Rhode Island,111,1,1,1
+2023,South Carolina,111,1,1,1
+2023,South Dakota,111,1,1,1
+2023,Tennessee,111,1,1,1
+2023,Texas,111,1,1,1
+2023,Utah,111,1,1,1
+2023,Vermont,111,1,1,1
+2023,Virginia,100,1,0,0
+2023,Washington,100,1,0,0
+2023,West Virginia,100,1,0,0
+2023,Wisconsin,100,1,0,0
+2023,Wyoming,100,1,0,0
+2024,Alabama,111,1,1,1
+2024,Alaska,111,1,1,1
+2024,Arizona,111,1,1,1
+2024,Arkansas,111,1,1,1
+2024,California,111,1,1,1
+2024,Colorado,222,2,2,2
+2024,Connecticut,222,2,2,2
+2024,Delaware,222,2,2,2
+2024,Florida,222,2,2,2
+2024,Georgia,222,2,2,2
+2024,Hawaii,222,2,2,2
+2024,Idaho,222,2,2,2
+2024,Illinois,222,2,2,2
+2024,Indiana,222,2,2,2
+2024,Iowa,222,2,2,2
+2024,Kansas,210,2,1,0
+2024,Kentucky,210,2,1,0
+2024,Louisiana,210,2,1,0
+2024,Maine,210,2,1,0
+2024,Maryland,210,2,1,0
+2024,Massachusetts,222,2,2,2
+2024,Michigan,222,2,2,2
+2024,Minnesota,222,2,2,2
+2024,Mississippi,222,2,2,2
+2024,Missouri,222,2,2,2
+2024,Montana,111,1,1,1
+2024,Nebraska,111,1,1,1
+2024,Nevada,111,1,1,1
+2024,New Hampshire,111,1,1,1
+2024,New Jersey,111,1,1,1
+2024,New Mexico,222,2,2,2
+2024,New York,222,2,2,2
+2024,North Carolina,222,2,2,2
+2024,North Dakota,222,2,2,2
+2024,Ohio,222,2,2,2
+2024,Oklahoma,111,1,1,1
+2024,Oregon,111,1,1,1
+2024,Pennsylvania,111,1,1,1
+2024,Rhode Island,111,1,1,1
+2024,South Carolina,111,1,1,1
+2024,South Dakota,111,1,1,1
+2024,Tennessee,111,1,1,1
+2024,Texas,111,1,1,1
+2024,Utah,111,1,1,1
+2024,Vermont,111,1,1,1
+2024,Virginia,120,1,2,0
+2024,Washington,120,1,2,0
+2024,West Virginia,120,1,2,0
+2024,Wisconsin,120,1,2,0
+2024,Wyoming,120,1,2,0
+2025,Alabama,111,1,1,1
+2025,Alaska,111,1,1,1
+2025,Arizona,111,1,1,1
+2025,Arkansas,111,1,1,1
+2025,California,111,1,1,1
+2025,Colorado,222,2,2,2
+2025,Connecticut,222,2,2,2
+2025,Delaware,222,2,2,2
+2025,Florida,222,2,2,2
+2025,Georgia,222,2,2,2
+2025,Hawaii,222,2,2,2
+2025,Idaho,222,2,2,2
+2025,Illinois,222,2,2,2
+2025,Indiana,222,2,2,2
+2025,Iowa,222,2,2,2
+2025,Kansas,210,2,1,0
+2025,Kentucky,210,2,1,0
+2025,Louisiana,210,2,1,0
+2025,Maine,210,2,1,0
+2025,Maryland,210,2,1,0
+2025,Massachusetts,222,2,2,2
+2025,Michigan,222,2,2,2
+2025,Minnesota,222,2,2,2
+2025,Mississippi,222,2,2,2
+2025,Missouri,222,2,2,2
+2025,Montana,111,1,1,1
+2025,Nebraska,111,1,1,1
+2025,Nevada,111,1,1,1
+2025,New Hampshire,111,1,1,1
+2025,New Jersey,111,1,1,1
+2025,New Mexico,222,2,2,2
+2025,New York,222,2,2,2
+2025,North Carolina,222,2,2,2
+2025,North Dakota,222,2,2,2
+2025,Ohio,222,2,2,2
+2025,Oklahoma,111,1,1,1
+2025,Oregon,111,1,1,1
+2025,Pennsylvania,111,1,1,1
+2025,Rhode Island,111,1,1,1
+2025,South Carolina,111,1,1,1
+2025,South Dakota,111,1,1,1
+2025,Tennessee,111,1,1,1
+2025,Texas,111,1,1,1
+2025,Utah,111,1,1,1
+2025,Vermont,111,1,1,1
+2025,Virginia,120,1,2,0
+2025,Washington,120,1,2,0
+2025,West Virginia,120,1,2,0
+2025,Wisconsin,120,1,2,0
+2025,Wyoming,120,1,2,0
